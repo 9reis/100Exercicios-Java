@@ -3,11 +3,17 @@
 ## :gem: Lista com MAIS DE 100 exercícios em Java
 
 <details>
-  <summary><strong>EXERCÍCIO</strong></summary><br />
+  <summary><strong>EXERCÍCIO 1</strong></summary><br />
     <div>
-      :small_orange_diamond: EXERCÍCIO  : <a href="teste.html"> </a>
-      <p> 
-      -
+      :large_blue_circle: Sistema de contagem de vendas <a href="teste.html"> </a>
+      <p> <br />
+        :pushpin:Adicionando uma relação de vendas no sistema, onde são separadas e somados os valores das vendas maiores de $2.000 <br /><br />
+        Utilizando: <br />
+        :small_blue_diamond: Scanner <br />
+        :small_blue_diamond: For <br />
+        :small_blue_diamond: While <br />
+        :small_blue_diamond: if <br />
+        :small_blue_diamond: Vetores <br />
       <p>
     </div>
 </details>
