@@ -15,6 +15,7 @@
         :small_blue_diamond: if <br />
         :small_blue_diamond: Vetores <br />
       <p>
+        :o: <a href="https://github.com/9reis/100Exercicios-Java/tree/ex1/Exercicio1/src/exercicio1" > COD EX1 </a>
     </div>
 </details>
 
